@@ -37,22 +37,14 @@ Class constructor or initialization method.
 
 '''
 
-#	keys and tokens from the Twitter Dev Console consumer_key = 'x9Rxt3YCwUbCTb2c4vmm4xKsU'
+#	keys and tokens from the Twitter Dev Console 
+consumer_key = 'xx'
 
+consumer_secret = 'xx'
 
+access_token	=	'xx'
 
-
-
-
-34
- 
-consumer_secret = '4IhQrSsHojfkEAQVGpWy76cu1bidQzg18Rb5ITkgi9vMJwvVQP'
-
-access_token	=	'784965978-
-
-XwNxRRRewXEcMFMbNOHPymiDxZhAjWFusyZnt5OT'
-
-access_token_secret = 'sgQC8lJCrslcsnf2fBRS5dwlKSdpeuumMuBd3PWwHM6We'
+access_token_secret = 'xx'
 
 #	attempt authentication try:
 
